@@ -30,11 +30,16 @@ You may need hard refresh (Ctrl+Shift+R) to see changes.
     left: 100px;
     top: 100px;
   }
+
+.window {
+background: yellow;
+}
 </style>
 
 <div class="roof"></div>
 <div class="ground-floor">
   <div class="door"></div>
+<div class="window"></div>
 </div>
 
 <script>alert("Welcome to the rainbow castle");</script>
