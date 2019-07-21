@@ -17,7 +17,7 @@ You may need hard refresh (Ctrl+Shift+R) to see changes.
     box-sizing: border-box;
   }
   .ground-floor {
-    background: grey;
+    background: pink;
     height: 200px;
     width: 200px;
     position: relative;
