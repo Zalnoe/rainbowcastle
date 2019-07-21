@@ -34,6 +34,7 @@ You may need hard refresh (Ctrl+Shift+R) to see changes.
 
 <div class="roof"></div>
 <div class="ground-floor">
+<div class="door-label">Noi house</div>
   <div class="door"></div>
 </div>
 
