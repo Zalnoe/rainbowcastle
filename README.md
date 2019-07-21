@@ -18,7 +18,7 @@ You may need hard refresh (Ctrl+Shift+R) to see changes.
   }
   .ground-floor {
     background: grey;
-    height: 200px;
+    height: 500px;
     width: 200px;
     position: relative;
   }
